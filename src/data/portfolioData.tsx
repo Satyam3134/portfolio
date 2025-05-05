@@ -11,14 +11,14 @@ export const portfolioItems: PortfolioItem[] = [
         id: 1,
         title: "E-commerce Website with CMS",
         category: "Web Development",
-        image: "/project1.png",
+        image: "/project1.webp",
         link: "https://www.jatinmalikcouture.com/",
     },
     {
         id: 2,
         title: "E-commerce Website Redesign",
         category: "CMS",
-        image: "/project2.png",
+        image: "/project2.webp",
         link: "https://salaryse.com/",
     },
     {

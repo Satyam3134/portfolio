@@ -62,8 +62,8 @@ const Hero = () => {
                             <div className="w-full h-full rounded-full overflow-hidden bg-gradient-to-br from-primary/5 to-primary/20 relative">
                                 <Avatar className="w-full h-full">
                                     <AvatarImage
-                                        src="/myImage.jpg"
-                                        alt="Your Name"
+                                        src="/myImage.webp"
+                                        alt="Satyam kr"
                                         className="object-cover"
                                     />
                                     <AvatarFallback className="text-5xl font-bold text-primary/50 bg-primary/5">
