@@ -16,7 +16,7 @@ const About = () => {
                     <div className="relative group">
                         <div className="absolute inset-0 bg-gradient-to-tr from-primary/30 to-transparent rounded-xl rotate-3 transform scale-105 opacity-75 group-hover:opacity-100 transition-all duration-500"></div>
                         <img
-                            src="/aboutImage.jpg"
+                            src="/aboutImage.webp"
                             alt="Designer working"
                             className="w-full h-auto object-cover rounded-xl shadow-xl relative z-10 transition-all duration-500 hover:shadow-2xl"
                         />
