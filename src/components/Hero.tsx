@@ -97,7 +97,7 @@ const Hero = () => {
 
                         {/* Additional floating elements */}
                         <div
-                            className="absolute top-1/4 right-0 translate-x-1/2 p-3 bg-white shadow-lg rounded-full h-18 w-18 flex items-center justify-center animate-float"
+                            className="absolute top-1/4 right-0 translate-x-1/2  p-3 bg-white shadow-lg rounded-full h-18 w-18 flex items-center justify-center animate-float z-50"
                             style={{ animationDelay: "1.5s" }}
                         >
                             <div className="text-center text-primary font-bold">
@@ -106,7 +106,7 @@ const Hero = () => {
                         </div>
 
                         <div
-                            className="absolute bottom-1/4 left-0 -translate-x-1/2 p-3 bg-white shadow-lg rounded-full h-18 w-18 flex items-center justify-center animate-float"
+                            className="absolute bottom-1/4 left-0 -translate-x-1/2 p-3 bg-white shadow-lg rounded-full h-18 w-18 flex items-center justify-center animate-float z-50"
                             style={{ animationDelay: "2s" }}
                         >
                             <div className="text-center text-primary font-bold">
