@@ -24,8 +24,8 @@ export const portfolioItems: PortfolioItem[] = [
     {
         id: 3,
         title: "Modern Landing Page for Product Launch",
-        category: "Web Design",
-        image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b",
+        category: "CMS",
+        image: "/project3.webp",
         link: "",
     },
     {
